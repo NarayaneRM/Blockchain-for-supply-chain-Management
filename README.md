@@ -1,1 +1,3 @@
 # Blockchain-for-supply-chain-Management
+
+How can blockchain technology help improve the supply chain? All physical products must take a journey from the factory to the consumer and this journey is called the supply chain. Unfortunately, the path to the consumer isn't straightforward, there are sometimes dozens of intermediaries involved in this process. That includes quality assurance, drivers, procurement officers, etc. Blockchain acts as an immutable store of data, and removes the need for one or more third parties. It can help save both businesses and consumers time and money in this case. 
